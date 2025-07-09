@@ -14,6 +14,7 @@ An advanced interactive dashboard built using Power BI to analyze Blinkit's prod
  - Dashboard/report development
  - Insights Generation
 
+
    ** KPI REQUIRMENTS: **
 ### 1.Total sales : the revenue generated from items sold.
 ### 2.average sales: the average revenue per sale
