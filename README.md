@@ -1,43 +1,73 @@
 # Blinkit Sales Dashboard
 
-This project showcases a *Sales Dashboard* designed to analyze and visualize Blinkit's sales data across item types, years, and other key business metrics.
+An advanced interactive dashboard built using Power BI to analyze Blinkit's product sales, trends, customer preferences, and regional performance
 
-![WhatsApp Image 2025-07-09 at 3 48 52 PM](https://github.com/user-attachments/assets/2631331f-4d45-4939-8b62-fbd372f0e91d)
+## 🎯 Objective
 
-![WhatsApp Image 2025-07-09 at 3 48 51 PM](https://github.com/user-attachments/assets/3195572f-a0cb-4275-9e2d-c9a61af18821)
+The main objective of this project is to develop a robust and dynamic sales analytics dashboard for Blinkit. The goal is to deliver deep insights into product-wise performance, yearly sales growth, customer preferences based on fat content, and regional sales distribution. This dashboard allows business users, analysts, and decision-makers to:
 
-## 📊 Dashboard Summary
+- Monitor key metrics such as total sales, average ratings, and product counts
+- Identify top-performing categories and years
+- Track sales performance across Tier 1, Tier 2, and Tier 3 cities
+- Understand customer trends based on fat content (Low Fat vs Regular)
+- Make informed, data-driven decisions to optimize product strategy and marketing
 
-- *Total Sales:*  
-  - Dairy Only: 101K  
-  - All Items: 1.20M
+---
 
+## 📊 Project Details
+
+This dashboard project includes two main views:
+
+### 1️⃣ Filtered View (Dairy Category Only)
+- *Total Sales:* 101K  
 - *Average Rating:* 3.92  
-- *No of Items:*  
-  - Dairy: 682  
-  - All Items: 9K
+- *Product Count:* 682  
+- *Fat Content:* 60.43% Regular, 39.57% Low Fat  
+- *Location Type Distribution:* Tier 1 (30.21%), Tier 2 (31.22%), Tier 3 (38.57%)  
+- Focused on dairy category analysis to isolate trends in a specific product line.
 
-- *Top Categories by Sales:*  
-  - Fruits and Vegetables: 178K  
-  - Snack Foods: 171K  
-  - Household: 138K  
-  - Frozen Food: 119K  
-  - Dairy: 101K
+### 2️⃣ Full Data View (All Categories)
+- *Total Sales:* 1.20M  
+- *Average Rating:* 3.92  
+- *Product Count:* 9,000+  
+- *Top Categories:*  
+  - Fruits and Vegetables – 178K  
+  - Snack Foods – 171K  
+  - Household – 138K  
+  - Frozen Food – 119K  
+  - Dairy – 101K  
+- *Fat Content Breakdown:* 64.29% Regular, 35.71% Low Fat  
+- *Location Breakdown:* Tier 1 (28.05%), Tier 2 (32.17%), Tier 3 (39.78%)  
+- Year-wise sales trend from 2012 to 2022 included with peak year in 2018.
 
-- *Sales by Year (2012–2022):*  
-  - Peak Year: 2018 with 295K sales
+---
 
-- *Fat Content Distribution:*  
-  - Low Fat: ~35-40%  
-  - Regular: …
- ## 💡 Tools Used
+## 📁 Project Structure
+![Screenshot 2025-07-09 193231](https://github.com/user-attachments/assets/c523eb68-5bc6-4ce8-b29d-0001139e88dc)
+![Screenshot 2025-07-09 193338](https://github.com/user-attachments/assets/6aa08674-5d88-4ca5-a1cc-4838995b8319)
 
-- Power BI (or similar BI tool)
-- Excel/CSV for raw data
-- DAX for calculations
-- GitHub for version control
+ ---
 
-## 📩 Author
+## 🧰 Tools & Technologies Used
 
-*Hemanth Kumar HC*  
+- *Power BI* – For interactive dashboard creation and DAX measures  
+- *Excel/CSV* – For data import, cleaning, and manipulation  
+- *DAX* – Used to create calculated measures and KPIs  
+- *GitHub* – For version control and project showcasing
+
+---
+
+## 🚀 Key Insights Enabled
+
+- Compare sales across categories and years  
+- Analyze fat content preferences among customers  
+- Study how performance varies across different city tiers  
+- Gain visibility into high- and low-performing areas for strategic planning
+
+---
+
+## 👤 Author
+
+*Name:* Hemanth Kumar HC  
 📧 [hemanthkumar057@gmail.com](mailto:hemanthkumar057@gmail.com)
+
