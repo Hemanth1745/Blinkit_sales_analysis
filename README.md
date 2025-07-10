@@ -3,6 +3,7 @@
 An advanced interactive dashboard built using Power BI to analyze Blinkit's product sales, trends, customer preferences, and regional performance
 
 ## STEPS IN PROJECT
+
 - Requirements Gathering
  - data connection
  - data cleaning
@@ -62,35 +63,6 @@ chart type : line chart
   objective:  provide a comprehensive view of all key (average sales, number of items, average rating) 
  broken down by different outlet types.
  chart type :donut chart
-
-
----
-
-## 📊 Project Details
-
-This dashboard project includes two main views:
-
-### 1️⃣ Filtered View (Dairy Category Only)
-- *Total Sales:* 101K  
-- *Average Rating:* 3.92  
-- *Product Count:* 682  
-- *Fat Content:* 60.43% Regular, 39.57% Low Fat  
-- *Location Type Distribution:* Tier 1 (30.21%), Tier 2 (31.22%), Tier 3 (38.57%)  
-- Focused on dairy category analysis to isolate trends in a specific product line.
-
-### 2️⃣ Full Data View (All Categories)
-- *Total Sales:* 1.20M  
-- *Average Rating:* 3.92  
-- *Product Count:* 9,000+  
-- *Top Categories:*  
-  - Fruits and Vegetables – 178K  
-  - Snack Foods – 171K  
-  - Household – 138K  
-  - Frozen Food – 119K  
-  - Dairy – 101K  
-- *Fat Content Breakdown:* 64.29% Regular, 35.71% Low Fat  
-- *Location Breakdown:* Tier 1 (28.05%), Tier 2 (32.17%), Tier 3 (39.78%)  
-- Year-wise sales trend from 2012 to 2022 included with peak year in 2018.
 
 ---
 
