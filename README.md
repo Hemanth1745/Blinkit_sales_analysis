@@ -68,7 +68,8 @@ chart type : line chart
 
 ## 📁 Project Structure
 <img width="1445" height="845" alt="Blinkit report" src="https://github.com/user-attachments/assets/8d516e8e-0ee4-4695-af5a-95d48c3e34f9" />
- ---
+
+---
 
 ## 🧰 Tools & Technologies Used
 
