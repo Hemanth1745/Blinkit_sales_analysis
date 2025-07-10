@@ -17,10 +17,10 @@ An advanced interactive dashboard built using Power BI to analyze Blinkit's prod
 
 ## KPI REQUIRMENTS
 
- 1.Total sales : the revenue generated from items sold.
- 2.average sales: the average revenue per sale
- 3.Number of items: the total count of different items sold.
- 4.Average Rating: the average customer rating for items sold.
+1.Total sales : the revenue generated from items sold.
+2.average sales: the average revenue per sale.
+3.Number of items: the total count of different items sold.
+4.Average Rating: the average customer rating for items sold.
 
 
 
